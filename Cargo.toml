@@ -1,0 +1,7 @@
+[package]
+name = "dynbox"
+version = "0.1.0"
+authors = ["Roman M. <m3angreen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
